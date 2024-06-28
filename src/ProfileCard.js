@@ -1,6 +1,6 @@
 function ProfileCard() {
     return <>
-        <div>Whatever i want </div>
+        <div>ProfileCard</div>
     </>
 }
 
